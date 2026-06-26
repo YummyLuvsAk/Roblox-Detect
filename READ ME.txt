@@ -1,0 +1,3 @@
+Run the exe file as administrator (May have to temporarily disable anti virus) 
+
+Once its ran, it should scan for all exe or roblox files that aren't affiliated with the actual Roblox corporation
